@@ -33,6 +33,19 @@ I enjoy building projects, learning new technologies, and solving real-world pro
 - Preparing for software development opportunities.
 
 ---
+---
+
+### 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shivamtripathi78&show_icons=true&theme=github_dark)
+
+### 🔥 Contribution Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Shivamtripathi78&theme=dark)
+
+### 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivamtripathi78&layout=compact&theme=github_dark)
 
 ### 🤝 Connect With Me
 
