@@ -59,46 +59,6 @@ Building projects, solving problems, and learning something new every day. 🚀
 
 ---
 
-## 💼 Featured Projects
-
-### 🤖 AI Sentiment Analyzer
-An AI-based application that analyzes textual input and provides sentiment-oriented results.
-
-**Technologies:** Python, AI
-
-### 💬 AI-Powered Chatbot
-An interactive chatbot designed to respond to user queries using AI and API concepts.
-
-**Technologies:** Python, Web Technologies, APIs
-
-### 🏥 Dermascans
-An AI-powered web application focused on disease scanning and analysis, with a responsive interface.
-
-**Technologies:** React, TypeScript, FastAPI, PostgreSQL
-
-### 🎓 College Event Management System
-A database-driven application designed to organize and manage college event information.
-
-**Technologies:** MySQL
-
-### 💰 Expense Tracker
-A command-line application for recording expenses, categorizing spending, and calculating totals.
-
-**Technologies:** Python, JSON
-
-### 🔐 Password Generator
-A customizable password generator that creates random passwords using selected character types.
-
-**Technologies:** Python
-
-<p align="center">
-  <a href="https://github.com/Shivamtripathi78?tab=repositories">
-    <img src="https://img.shields.io/badge/View_All_Repositories-181717?style=for-the-badge&logo=github" alt="View all repositories"/>
-  </a>
-</p>
-
----
-
 ## 📊 GitHub Statistics
 
 <div align="center">
@@ -116,26 +76,6 @@ A customizable password generator that creates random passwords using selected c
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivamtripathi78&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shivamtripathi78&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Graph"/>
-
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Shivamtripathi78&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Profile Trophies"/>
 
 </div>
 
