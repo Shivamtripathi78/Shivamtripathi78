@@ -1,57 +1,172 @@
-# Hi there, I'm Shivam Tripathi 👋
+<div align="center">
 
-### 💻 Computer Science Engineering Student | Aspiring Software Developer
+# 👋 Hi, I'm Shivam Tripathi
 
-I'm a fourth-year B.Tech Computer Science student interested in software development, artificial intelligence, and web technologies. 
-I enjoy building projects, learning new technologies, and solving real-world problems through code.
+### 💻 Computer Science Student | Python Developer | Software Development Enthusiast
 
----
+Building projects, solving problems, and learning something new every day. 🚀
 
-### 🚀 Projects
+<p>
+  <a href="https://github.com/Shivamtripathi78">
+    <img src="https://img.shields.io/badge/GitHub-Shivamtripathi78-181717?style=for-the-badge&logo=github" alt="GitHub Profile"/>
+  </a>
+  <a href="https://www.linkedin.com/in/shivamtripathi78/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+</p>
 
-- 🤖 **AI Sentiment Analyzer** — A Python project focused on analyzing sentiment in text.
-- 💬 **AI-Powered Chatbot** — A chatbot project exploring interactive web-based applications.
-- 📚 **AI Study Helper** — A JavaScript project focused on supporting the learning process.
-- 🎓 **College Event Management System** — A database-oriented project for managing college events.
-
----
-
-### 🛠️ Technologies & Tools
-
-- **Languages:** Python, Java, C++, JavaScript
-- **Web Development:** HTML, CSS
-- **Databases:** MySQL, MongoDB
-- **Tools:** Git, GitHub, VS Code
+</div>
 
 ---
 
-### 📈 Currently Working On
+## 🚀 About Me
 
-- Improving my programming and problem-solving skills.
-- Building practical software development projects.
-- Exploring AI-powered applications and web development.
-- Preparing for software development opportunities.
-
----
----
-
-### 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shivamtripathi78&show_icons=true&theme=github_dark)
-
-### 🔥 Contribution Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Shivamtripathi78&theme=dark)
-
-### 💻 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivamtripathi78&layout=compact&theme=github_dark)
-
-### 🤝 Connect With Me
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/shivamtripathi78/)
-- 💻 [GitHub](https://github.com/Shivamtripathi78)
+- 🎓 B.Tech Computer Science and Engineering student (2023–2027).
+- 💻 Interested in software development, Python, and web technologies.
+- 🤖 Worked on AI-powered applications and database-driven projects.
+- 🌱 Currently improving my programming, DSA, and development skills.
+- 🎯 Focused on building practical projects and preparing for software development opportunities.
+- ⚡ I believe the best way to learn programming is by building real projects.
 
 ---
 
-⭐ *Thanks for visiting my profile!*
+## 🛠️ Tech Stack
+
+### Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+</p>
+
+### Web Development
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+</p>
+
+### Databases and Tools
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+</p>
+
+---
+
+## 💼 Featured Projects
+
+### 🤖 AI Sentiment Analyzer
+An AI-based application that analyzes textual input and provides sentiment-oriented results.
+
+**Technologies:** Python, AI
+
+### 💬 AI-Powered Chatbot
+An interactive chatbot designed to respond to user queries using AI and API concepts.
+
+**Technologies:** Python, Web Technologies, APIs
+
+### 🏥 Dermascans
+An AI-powered web application focused on disease scanning and analysis, with a responsive interface.
+
+**Technologies:** React, TypeScript, FastAPI, PostgreSQL
+
+### 🎓 College Event Management System
+A database-driven application designed to organize and manage college event information.
+
+**Technologies:** MySQL
+
+### 💰 Expense Tracker
+A command-line application for recording expenses, categorizing spending, and calculating totals.
+
+**Technologies:** Python, JSON
+
+### 🔐 Password Generator
+A customizable password generator that creates random passwords using selected character types.
+
+**Technologies:** Python
+
+<p align="center">
+  <a href="https://github.com/Shivamtripathi78?tab=repositories">
+    <img src="https://img.shields.io/badge/View_All_Repositories-181717?style=for-the-badge&logo=github" alt="View all repositories"/>
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Shivamtripathi78&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivamtripathi78&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
+
+</div>
+
+---
+
+## 🔥 GitHub Streaks
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivamtripathi78&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shivamtripathi78&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Graph"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Shivamtripathi78&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Profile Trophies"/>
+
+</div>
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/shivamtripathi78/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="https://github.com/Shivamtripathi78">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<a href="mailto:shivam7800tripathi@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 "Great things are done by a series of small things brought together."
+
+⭐ Thanks for visiting my profile!
+
+**Building. Learning. Improving. Every day.**
+
+</div>
