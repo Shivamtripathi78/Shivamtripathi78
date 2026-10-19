@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Shivam Tripathi
 
-### 💻 Computer Science Student | Python Developer | Software Development Enthusiast
+### 💻 Computer Science Student | Software Development Enthusiast
 
 Building projects, solving problems, and learning something new every day. 🚀
 
