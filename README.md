@@ -50,33 +50,19 @@ Building projects, solving problems, and learning something new every day. 🚀
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" alt="Databases" />
 </p>
 
-* SQL
-* JSON
-* REST APIs
-* Responsive Design
 
 ### 🤖 AI & Machine Learning
 
 <p>
   <img src="https://skillicons.dev/icons?i=pytorch,opencv,sklearn" alt="AI and Machine Learning" />
 </p>
-
-* Python
-* Pandas
-* Streamlit
-* TF-IDF
-* Logistic Regression
-* Joblib
+ 
 
 ### 🧰 Tools & Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Development Tools" />
 </p>
-
-* LeetCode
-* Material 3
-* SharedPreferences
 
 ---
 
