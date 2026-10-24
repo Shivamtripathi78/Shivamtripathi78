@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm Shivam Tripathi
 
-### 💻 Computer Science Student | Software Development Enthusiast
+###  Computer Science Student | Software Development Enthusiast
 
-Building projects, solving problems, and learning something new every day. 🚀
+Building projects, solving problems, and learning something new every day. 
 
 <p>
   <a href="https://github.com/Shivamtripathi78">
