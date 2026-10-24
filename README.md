@@ -78,17 +78,6 @@ Building projects, solving problems, and learning something new every day. 🚀
 * Material 3
 * SharedPreferences
 
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Shivamtripathi78&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivamtripathi78&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
-
-</div>
-
 ---
 
 ## 🔥 GitHub Streaks
