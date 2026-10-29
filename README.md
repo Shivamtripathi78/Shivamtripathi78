@@ -2,6 +2,8 @@
 
 # 👋 Hi, I'm Shivam Tripathi
 
+<div align="left">
+
 ## 🚀 About Me
 
 - 🎓 B.Tech Computer Science and Engineering student (2023–2027).
