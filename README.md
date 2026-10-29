@@ -2,23 +2,6 @@
 
 # 👋 Hi, I'm Shivam Tripathi
 
-###  Computer Science Student | Software Development Enthusiast
-
-Building projects, solving problems, and learning something new every day. 
-
-<p>
-  <a href="https://github.com/Shivamtripathi78">
-    <img src="https://img.shields.io/badge/GitHub-Shivamtripathi78-181717?style=for-the-badge&logo=github" alt="GitHub Profile"/>
-  </a>
-  <a href="https://www.linkedin.com/in/shivamtripathi78/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-</p>
-
-</div>
-
----
-
 ## 🚀 About Me
 
 - 🎓 B.Tech Computer Science and Engineering student (2023–2027).
